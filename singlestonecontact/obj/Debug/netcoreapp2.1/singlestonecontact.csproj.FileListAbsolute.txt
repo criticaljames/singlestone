@@ -1,0 +1,14 @@
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\bin\Debug\netcoreapp2.1\singlestonecontact.deps.json
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\bin\Debug\netcoreapp2.1\singlestonecontact.runtimeconfig.json
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\bin\Debug\netcoreapp2.1\singlestonecontact.runtimeconfig.dev.json
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\bin\Debug\netcoreapp2.1\singlestonecontact.dll
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.csproj.CoreCompileInputs.cache
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.RazorAssemblyInfo.cache
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.RazorAssemblyInfo.cs
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.AssemblyInfoInputs.cache
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.AssemblyInfo.cs
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.RazorTargetAssemblyInfo.cache
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.csprojAssemblyReference.cache
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\bin\Debug\netcoreapp2.1\singlestonecontact.pdb
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.dll
+C:\Users\ja052565\source\repos\singlestonecontact\singlestonecontact\obj\Debug\netcoreapp2.1\singlestonecontact.pdb
